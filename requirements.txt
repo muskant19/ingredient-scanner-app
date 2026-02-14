@@ -1,7 +1,6 @@
 streamlit
-easyocr
-torch==2.2.2+cpu
-torchvision==0.17.2+cpu
+pytesseract
+opencv-python-headless
 Pillow
 numpy
---extra-index-url https://download.pytorch.org/whl/cpu
+
